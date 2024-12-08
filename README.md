@@ -1,2 +1,1 @@
-# Multitenancy-Database-Demo
- 
+**Björn Beskow**. (2020, September 19). _Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase_. Callista Enterprise. Retrieved from [Click Me](https://callistaenterprise.se/blogg/teknik/2020/09/19/multi-tenancy-with-spring-boot-part1/)
